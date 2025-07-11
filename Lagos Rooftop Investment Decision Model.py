@@ -25,7 +25,7 @@ import numpy_financial as npf
 # In[15]:
 
 
-# Load your dataset
+# Load the dataset
 
 file_path = r'C:\Users\HP\Downloads\lagos_rooftop_solar_potential.csv'
 df = pd.read_csv(file_path)
